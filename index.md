@@ -3,6 +3,11 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About me 
+
+My name is Esteban Martínez Hernández, Im 22 years old and I'm a seventh semester student in Tecnológico de Monterrey, currently enrolled in Enineering in Nanotechnology
+
+Proactive, resilient, constant & efficient. Interest in evaluation and optimization of materials and processes, research, and project development. Likely to teamwork and capable to solve problems innovatively.
 
 [Link to another page](./another-page.html).
 
@@ -10,12 +15,24 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Experience in Nanotechnology 
+# Professional Experience & Internships
 
+**Ternium TX**
+San Nicolás, Nuevo León, México | August 2022 - present
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Industrial Coordination area; Improvement in the steel caoting paint line area to eliminate paint residues and prevent them from expiring, saving the company approximately one and a half million dollars a year.
 
-## Header 2
+**Research Stay: Enhanced production of bioplastics by adding nanomaterials to microalgae**
+ Monterrey, Nuevo León, México | August 2022 - December 2022 
+ 
+Synthesis and characterization of carbon dots, evaluation of microalgae by adding carbon dots made from pineapple peel for the production of bioplastics.
+
+**Advanced Materials Research Center (CIMAV)**
+Monterrey, Nuevo León | February 2022 - July 2022
+
+Design of TiO2-based photocatalysts using copper nanoparticles for the production of solar fuels
+
+## Projects 
 
 > This is a blockquote following a header.
 >
