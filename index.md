@@ -21,18 +21,21 @@ There should be whitespace between paragraphs. We recommend including a README, 
 San Nicolás, Nuevo León, México | August 2022 - present
 
 * Industrial Coordination area; Improvement in the steel caoting paint line area to eliminate paint residues and prevent them from expiring, saving the company approximately one and a half million dollars a year.
+
 * * * 
 
 **Research Stay: Enhanced production of bioplastics by adding nanomaterials to microalgae**
  Monterrey, Nuevo León, México | August 2022 - December 2022 
  
 * Synthesis and characterization of carbon dots, evaluation of microalgae by adding carbon dots made from pineapple peel for the production of bioplastics.
+
 * * * 
 
 **Advanced Materials Research Center (CIMAV)**
 Monterrey, Nuevo León | February 2022 - July 2022
 
 * Design of TiO2-based photocatalysts using copper nanoparticles for the production of solar fuels.
+
 * * * 
 
 ## Projects 
@@ -46,6 +49,7 @@ Monterrey, Nuevo León | February 2022 - July 2022
 * Computational study of a molecular system with applications in the generation or storage of Energy
 
 * Obtaining multifunctional superhydrophobic coatings based on metal oxide nanostructures - CARBOMEX Investigación y Producción de Nanomateriales SA de CV
+
 * * *
 > This is a blockquote following a header.
 >
